@@ -7,3 +7,4 @@ for (int i = 0; i < coinCount; i++)
         scores[index].GetComponent<SpriteRenderer>().sprite = Wave;//將小道具換成超級道具
         scores[index].name = Wave.name;
     }
+#你好
