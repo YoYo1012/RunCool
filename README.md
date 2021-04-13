@@ -21,7 +21,7 @@
 ![Example screenshot](./遊戲畫面.png)
 
 # Code Examples
-(./跑酷程式.pdf)
+![Code Example](./跑酷程式.pdf)
 ## 網頁遊玩
 https://yoyo1012.github.io/RunCool/
 ## 未實現功能
