@@ -25,6 +25,8 @@
 ## 網頁遊玩
 https://yoyo1012.github.io/RunCool/
 ## 未實現功能
-
-
+1.SuperTime時有無敵效果
+2.磁鐵道具
+3.增加關卡及過關成就
 ## 聯繫
+see0864792888@gmail.com
