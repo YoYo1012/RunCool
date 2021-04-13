@@ -18,7 +18,7 @@
 6.切換關卡時會紀錄並延續上個關卡分數
 
 ## 遊戲截圖
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./遊戲畫面.png)
 
 # Code Examples
     
