@@ -1,21 +1,23 @@
 # RunCool
 
-## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Features](#features)
-* [Contact](#contact)
-* [Web Game](#web-game)
+## 目錄
+* [介紹](#general-info)
+* [遊戲截圖](#screenshots)
+* [網頁遊玩](#web-game)
+* [未實現功能](#features)
+* [聯繫](#contact)
 
-## Screenshots
+
+## 介紹
+
+## 遊戲截圖
 ![Example screenshot](./img/screenshot.png)
-
-## General info
 
 # Code Examples
     
-## Web Game
+## 網頁遊玩
 https://yoyo1012.github.io/RunCool/
-## Features
+## 未實現功能
 
-## Contact
+
+## 聯繫
