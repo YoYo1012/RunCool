@@ -5,7 +5,7 @@
 * [Screenshots](#screenshots)
 * [Features](#features)
 * [Contact](#contact)
-* [Web Game](#web game)
+* [Web Game](#web-game)
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
